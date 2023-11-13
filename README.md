@@ -3,7 +3,7 @@
 ![](https://github.com/LRawrerL/LRawrerL/blob/main/studying.gif)
 
 # 💫 About Me:
-🔭 I’m currently working on discord bot using discord.js<br>
+🔭 I’m currently working on LeetCode<br>
 🤝 I’m looking for help with cybersecurity<br>
 🌱 I’m currently learning CS50<br>
 💬 Ask me about HTML/CSS/JS/PHP<br>
