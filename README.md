@@ -5,7 +5,7 @@
 # 💫 About Me:
 🔭 I’m currently working on LeetCode<br>
 🤝 I’m looking for help with cybersecurity<br>
-🌱 I’m currently learning CS50<br>
+🌱 I’m currently learning web scraping<br>
 💬 Ask me about HTML/CSS/JS/PHP<br>
 ⚡ Fun fact I like donuts<br>
 ![](https://github.com/LRawrerL/LRawrerL/blob/main/donut.gif)
